@@ -1,0 +1,1 @@
+﻿Select valor from Financeiro.Receita

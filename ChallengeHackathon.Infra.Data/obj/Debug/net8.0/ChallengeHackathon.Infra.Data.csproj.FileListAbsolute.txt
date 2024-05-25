@@ -13,3 +13,4 @@ C:\Users\Coti  307 - 11\Documents\challenge\ChallengeHackathon\ChallengeHackatho
 C:\Users\Coti  307 - 11\Documents\challenge\ChallengeHackathon\ChallengeHackathon.Infra.Data\obj\Debug\net8.0\refint\ChallengeHackathon.Infra.Data.dll
 C:\Users\Coti  307 - 11\Documents\challenge\ChallengeHackathon\ChallengeHackathon.Infra.Data\obj\Debug\net8.0\ChallengeHackathon.Infra.Data.pdb
 C:\Users\Coti  307 - 11\Documents\challenge\ChallengeHackathon\ChallengeHackathon.Infra.Data\obj\Debug\net8.0\ref\ChallengeHackathon.Infra.Data.dll
+C:\Users\Coti  307 - 11\Documents\challenge\ChallengeHackathon\ChallengeHackathon.Infra.Data\obj\Debug\net8.0\ChallengeHackathon.Infra.Data.sourcelink.json

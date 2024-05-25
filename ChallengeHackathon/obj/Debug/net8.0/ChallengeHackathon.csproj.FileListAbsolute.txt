@@ -62,3 +62,4 @@ C:\Users\Coti  307 - 11\Documents\challenge\ChallengeHackathon\ChallengeHackatho
 C:\Users\Coti  307 - 11\Documents\challenge\ChallengeHackathon\ChallengeHackathon\obj\Debug\net8.0\ChallengeHackathon.pdb
 C:\Users\Coti  307 - 11\Documents\challenge\ChallengeHackathon\ChallengeHackathon\obj\Debug\net8.0\ChallengeHackathon.genruntimeconfig.cache
 C:\Users\Coti  307 - 11\Documents\challenge\ChallengeHackathon\ChallengeHackathon\obj\Debug\net8.0\ref\ChallengeHackathon.dll
+C:\Users\Coti  307 - 11\Documents\challenge\ChallengeHackathon\ChallengeHackathon\obj\Debug\net8.0\ChallengeHackathon.sourcelink.json

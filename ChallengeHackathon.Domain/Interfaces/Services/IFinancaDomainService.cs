@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ChallengeHackathon.Domain.Entities;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,6 +9,7 @@ namespace ChallengeHackathon.Domain.Interfaces.Services
 {
     public interface IFinancaDomainService
     {
-        public void GetData();
+        public List<Cliente> GetData();
+        public List<FluxoBancario> GetDataDespesa();
     }
 }

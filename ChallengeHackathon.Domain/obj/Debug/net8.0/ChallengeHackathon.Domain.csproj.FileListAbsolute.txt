@@ -9,3 +9,4 @@ C:\Users\Coti  307 - 11\Documents\challenge\ChallengeHackathon\ChallengeHackatho
 C:\Users\Coti  307 - 11\Documents\challenge\ChallengeHackathon\ChallengeHackathon.Domain\obj\Debug\net8.0\refint\ChallengeHackathon.Domain.dll
 C:\Users\Coti  307 - 11\Documents\challenge\ChallengeHackathon\ChallengeHackathon.Domain\obj\Debug\net8.0\ChallengeHackathon.Domain.pdb
 C:\Users\Coti  307 - 11\Documents\challenge\ChallengeHackathon\ChallengeHackathon.Domain\obj\Debug\net8.0\ref\ChallengeHackathon.Domain.dll
+C:\Users\Coti  307 - 11\Documents\challenge\ChallengeHackathon\ChallengeHackathon.Domain\obj\Debug\net8.0\ChallengeHackathon.Domain.sourcelink.json

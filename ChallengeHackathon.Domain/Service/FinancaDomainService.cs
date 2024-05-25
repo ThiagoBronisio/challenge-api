@@ -1,4 +1,5 @@
-﻿using ChallengeHackathon.Domain.Interfaces.Repositories;
+﻿using ChallengeHackathon.Domain.Entities;
+using ChallengeHackathon.Domain.Interfaces.Repositories;
 using ChallengeHackathon.Domain.Interfaces.Services;
 using System;
 using System.Collections.Generic;
@@ -17,9 +18,14 @@ namespace ChallengeHackathon.Domain.Service
             _financaRepository = financaRepository;
         }
 
-        public void GetData()
+        public List<Cliente> GetData()
         {
-            _financaRepository.GetDespesa();
+            return _financaRepository.GetPessoaData();
+        }
+
+        public List<FluxoBancario> GetDataDespesa()
+        {
+            return _financaRepository.GetDespesa();
         }
     }
 }
