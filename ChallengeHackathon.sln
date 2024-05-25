@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallengeHackathon", "ChallengeHackathon\ChallengeHackathon.csproj", "{D5CFB34C-855D-477B-9279-DDD73CCE387C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - INFRASTRUCTURE", "3 - INFRASTRUCTURE", "{EB37093F-BFE3-40E3-A8B7-3E97816F91FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallengeHackathon.Infra.Data", "ChallengeHackathon.Infra.Data\ChallengeHackathon.Infra.Data.csproj", "{8F918819-6E09-4DAC-AC87-DAFDF3ABD671}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - API", "1 - API", "{ECA9A61B-148E-43C8-AB62-D92770F2937C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 -DOMAIN", "2 -DOMAIN", "{74E6D794-4764-4232-9C0B-E6B5AE004554}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallengeHackathon.Domain", "ChallengeHackathon.Domain\ChallengeHackathon.Domain.csproj", "{01A2CFD4-A359-48CC-A020-A57250937B56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5CFB34C-855D-477B-9279-DDD73CCE387C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5CFB34C-855D-477B-9279-DDD73CCE387C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5CFB34C-855D-477B-9279-DDD73CCE387C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5CFB34C-855D-477B-9279-DDD73CCE387C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F918819-6E09-4DAC-AC87-DAFDF3ABD671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F918819-6E09-4DAC-AC87-DAFDF3ABD671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F918819-6E09-4DAC-AC87-DAFDF3ABD671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F918819-6E09-4DAC-AC87-DAFDF3ABD671}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01A2CFD4-A359-48CC-A020-A57250937B56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01A2CFD4-A359-48CC-A020-A57250937B56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01A2CFD4-A359-48CC-A020-A57250937B56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01A2CFD4-A359-48CC-A020-A57250937B56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D5CFB34C-855D-477B-9279-DDD73CCE387C} = {ECA9A61B-148E-43C8-AB62-D92770F2937C}
+		{8F918819-6E09-4DAC-AC87-DAFDF3ABD671} = {EB37093F-BFE3-40E3-A8B7-3E97816F91FA}
+		{01A2CFD4-A359-48CC-A020-A57250937B56} = {74E6D794-4764-4232-9C0B-E6B5AE004554}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E995F63-1E83-406C-BCDC-2AA83766855E}
+	EndGlobalSection
+EndGlobal

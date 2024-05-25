@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "ChallengeHackathon.Controllers.FinancaController",
+    "Method": "GetDashboard",
+    "RelativePath": "api/Financa/dashboard",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
