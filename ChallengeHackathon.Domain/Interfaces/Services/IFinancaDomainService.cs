@@ -9,7 +9,8 @@ namespace ChallengeHackathon.Domain.Interfaces.Services
 {
     public interface IFinancaDomainService
     {
-        public List<Cliente> GetData();
+        public List<DadosGeral> GetData();
         public List<FluxoBancario> GetDataDespesa();
+        public List<Cliente> GetDataClientes();
     }
 }

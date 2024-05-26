@@ -18,7 +18,7 @@ namespace ChallengeHackathon.Controllers
         }
 
         [HttpGet]
-        [Route("Despesas")]
+        [Route("FluxoGeral")]
         [ProducesResponseType(typeof(List<DespesaGetResponseDTO>), 200)]
         public IActionResult GetDespesas()
         {
@@ -35,7 +35,7 @@ namespace ChallengeHackathon.Controllers
         }
 
         [HttpGet]
-        [Route("ClienteData")]
+        [Route("DataGeral")]
         [ProducesResponseType(typeof(List<ClienteGetResponseDTO>), 200)]
         public IActionResult GetPessoaData()
         {
@@ -46,6 +46,23 @@ namespace ChallengeHackathon.Controllers
                 return Ok(model);
             }
             catch (Exception e)
+            {
+                return StatusCode(500, new { e.Message });
+            }
+        }
+
+        [HttpGet]
+        [Route("ClienteSegmento")]
+        [ProducesResponseType(typeof(List<SegmentoGetResponseDTO>), 200)]
+        public IActionResult GetSegmentoData()
+        {
+            try
+            {
+                var model = _financaDomainService.GetDataClientes();
+
+                return Ok(model);
+            }
+            catch(Exception e )
             {
                 return StatusCode(500, new { e.Message });
             }

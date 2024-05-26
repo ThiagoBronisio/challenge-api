@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ChallengeHackathon.Domain.Entities
+﻿namespace ChallengeHackathon.DTOs
 {
-    public class Cliente
+    public class SegmentoGetResponseDTO
     {
         public float? Movimentacao { get; set; }
         public string? Transacao { get; set; }

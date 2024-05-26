@@ -18,7 +18,7 @@ namespace ChallengeHackathon.Domain.Service
             _financaRepository = financaRepository;
         }
 
-        public List<Cliente> GetData()
+        public List<DadosGeral> GetData()
         {
             return _financaRepository.GetPessoaData();
         }
@@ -41,6 +41,11 @@ namespace ChallengeHackathon.Domain.Service
              */
 
             return _financaRepository.GetDespesa();
+        }
+
+        public List<Cliente> GetDataClientes()
+        {
+            return _financaRepository.GetDataClientes();
         }
     }
 }

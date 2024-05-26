@@ -17,5 +17,6 @@ namespace ChallengeHackathon.Domain.Entities
         public float? Novo_Saldo {  get; set; }
         public float? Movimentacao_Geral { get; set; }
         public int? Contagem_Movimentacao { get; set; }
+        public int? ClienteId { get; set; }
     }
 }

@@ -1,8 +1,28 @@
 [
   {
     "ContainingType": "ChallengeHackathon.Controllers.FinancaController",
+    "Method": "GetSegmentoData",
+    "RelativePath": "api/Financa/ClienteSegmento",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[ChallengeHackathon.DTOs.SegmentoGetResponseDTO, ChallengeHackathon, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ChallengeHackathon.Controllers.FinancaController",
     "Method": "GetPessoaData",
-    "RelativePath": "api/Financa/ClienteData",
+    "RelativePath": "api/Financa/DataGeral",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -22,7 +42,7 @@
   {
     "ContainingType": "ChallengeHackathon.Controllers.FinancaController",
     "Method": "GetDespesas",
-    "RelativePath": "api/Financa/Despesas",
+    "RelativePath": "api/Financa/FluxoGeral",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
