@@ -10,3 +10,15 @@ C:\Users\Coti  307 - 11\Documents\challenge\ChallengeHackathon\ChallengeHackatho
 C:\Users\Coti  307 - 11\Documents\challenge\ChallengeHackathon\ChallengeHackathon.Domain\obj\Debug\net8.0\ChallengeHackathon.Domain.pdb
 C:\Users\Coti  307 - 11\Documents\challenge\ChallengeHackathon\ChallengeHackathon.Domain\obj\Debug\net8.0\ref\ChallengeHackathon.Domain.dll
 C:\Users\Coti  307 - 11\Documents\challenge\ChallengeHackathon\ChallengeHackathon.Domain\obj\Debug\net8.0\ChallengeHackathon.Domain.sourcelink.json
+G:\Projetos\PROJETOS COTI\Csharp aprendendo\Csharp COTI\challengeHackathon\ChallengeHackathon.Domain\bin\Debug\net8.0\ChallengeHackathon.Domain.deps.json
+G:\Projetos\PROJETOS COTI\Csharp aprendendo\Csharp COTI\challengeHackathon\ChallengeHackathon.Domain\bin\Debug\net8.0\ChallengeHackathon.Domain.dll
+G:\Projetos\PROJETOS COTI\Csharp aprendendo\Csharp COTI\challengeHackathon\ChallengeHackathon.Domain\bin\Debug\net8.0\ChallengeHackathon.Domain.pdb
+G:\Projetos\PROJETOS COTI\Csharp aprendendo\Csharp COTI\challengeHackathon\ChallengeHackathon.Domain\obj\Debug\net8.0\ChallengeHackathon.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projetos\PROJETOS COTI\Csharp aprendendo\Csharp COTI\challengeHackathon\ChallengeHackathon.Domain\obj\Debug\net8.0\ChallengeHackathon.Domain.AssemblyInfoInputs.cache
+G:\Projetos\PROJETOS COTI\Csharp aprendendo\Csharp COTI\challengeHackathon\ChallengeHackathon.Domain\obj\Debug\net8.0\ChallengeHackathon.Domain.AssemblyInfo.cs
+G:\Projetos\PROJETOS COTI\Csharp aprendendo\Csharp COTI\challengeHackathon\ChallengeHackathon.Domain\obj\Debug\net8.0\ChallengeHackathon.Domain.csproj.CoreCompileInputs.cache
+G:\Projetos\PROJETOS COTI\Csharp aprendendo\Csharp COTI\challengeHackathon\ChallengeHackathon.Domain\obj\Debug\net8.0\ChallengeHackathon.Domain.sourcelink.json
+G:\Projetos\PROJETOS COTI\Csharp aprendendo\Csharp COTI\challengeHackathon\ChallengeHackathon.Domain\obj\Debug\net8.0\ChallengeHackathon.Domain.dll
+G:\Projetos\PROJETOS COTI\Csharp aprendendo\Csharp COTI\challengeHackathon\ChallengeHackathon.Domain\obj\Debug\net8.0\refint\ChallengeHackathon.Domain.dll
+G:\Projetos\PROJETOS COTI\Csharp aprendendo\Csharp COTI\challengeHackathon\ChallengeHackathon.Domain\obj\Debug\net8.0\ChallengeHackathon.Domain.pdb
+G:\Projetos\PROJETOS COTI\Csharp aprendendo\Csharp COTI\challengeHackathon\ChallengeHackathon.Domain\obj\Debug\net8.0\ref\ChallengeHackathon.Domain.dll

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.ComponentModel.Design.Serialization;
 using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
@@ -32,7 +33,28 @@ namespace ChallengeHackathon.Infra.Data.Repositories
             using (var connection = new SqlConnection(_connectionString))
             {
                 string query = @"
-                SELECT VALOR, HISTORICO, SALDOANTERIOR, ENTRADA FROM FINANCEIRO.FLUXOBANCARIO WHERE DATAHORA BETWEEN '2024-01-01' AND '2024-03-30'
+                 SELECT 
+                     VALOR AS MOVIMENTACAO,
+                     HISTORICO AS TRANSACAO,
+                     DATAHORA,
+                     SALDOANTERIOR, 
+                     ENTRADA,
+                     CASE 
+                         WHEN ENTRADA = 1 THEN SALDOANTERIOR + VALOR
+                         WHEN ENTRADA = 0 THEN SALDOANTERIOR - VALOR
+                     END AS NOVO_SALDO,
+
+                 SUM(VALOR) 
+                    OVER 
+                        (ORDER BY DATAHORA ROWS BETWEEN UNBOUNDED PRECEDING AND CURRENT ROW) AS MOVIMENTACAO_GERAL,  
+
+                 ROW_NUMBER() OVER (ORDER BY DATAHORA) AS CONTAGEM_MOVIMENTACAO
+
+                 FROM 
+                     FINANCEIRO.FLUXOBANCARIO 
+
+                 WHERE 
+                     DATAHORA BETWEEN '2024-01-01' AND '2024-03-30'
                 ";
 
                 return connection.Query<FluxoBancario>(query).ToList();

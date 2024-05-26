@@ -1,51 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Coti  307 - 11\\Documents\\challenge\\ChallengeHackathon\\",
+  "WorkspaceRootPath": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\challengeHackathon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F918819-6E09-4DAC-AC87-DAFDF3ABD671}|ChallengeHackathon.Infra.Data\\ChallengeHackathon.Infra.Data.csproj|c:\\users\\coti  307 - 11\\documents\\challenge\\challengehackathon\\challengehackathon.infra.data\\repositories\\financarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F918819-6E09-4DAC-AC87-DAFDF3ABD671}|ChallengeHackathon.Infra.Data\\ChallengeHackathon.Infra.Data.csproj|solutionrelative:challengehackathon.infra.data\\repositories\\financarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5CFB34C-855D-477B-9279-DDD73CCE387C}|ChallengeHackathon\\ChallengeHackathon.csproj|c:\\users\\coti  307 - 11\\documents\\challenge\\challengehackathon\\challengehackathon\\configs\\corsconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5CFB34C-855D-477B-9279-DDD73CCE387C}|ChallengeHackathon\\ChallengeHackathon.csproj|solutionrelative:challengehackathon\\configs\\corsconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5CFB34C-855D-477B-9279-DDD73CCE387C}|ChallengeHackathon\\ChallengeHackathon.csproj|c:\\users\\coti  307 - 11\\documents\\challenge\\challengehackathon\\challengehackathon\\controllers\\financacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5CFB34C-855D-477B-9279-DDD73CCE387C}|ChallengeHackathon\\ChallengeHackathon.csproj|solutionrelative:challengehackathon\\controllers\\financacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5CFB34C-855D-477B-9279-DDD73CCE387C}|ChallengeHackathon\\ChallengeHackathon.csproj|c:\\users\\coti  307 - 11\\documents\\challenge\\challengehackathon\\challengehackathon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5CFB34C-855D-477B-9279-DDD73CCE387C}|ChallengeHackathon\\ChallengeHackathon.csproj|solutionrelative:challengehackathon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01A2CFD4-A359-48CC-A020-A57250937B56}|ChallengeHackathon.Domain\\ChallengeHackathon.Domain.csproj|c:\\users\\coti  307 - 11\\documents\\challenge\\challengehackathon\\challengehackathon.domain\\service\\financadomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01A2CFD4-A359-48CC-A020-A57250937B56}|ChallengeHackathon.Domain\\ChallengeHackathon.Domain.csproj|solutionrelative:challengehackathon.domain\\service\\financadomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01A2CFD4-A359-48CC-A020-A57250937B56}|ChallengeHackathon.Domain\\ChallengeHackathon.Domain.csproj|c:\\users\\coti  307 - 11\\documents\\challenge\\challengehackathon\\challengehackathon.domain\\interfaces\\services\\ifinancadomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01A2CFD4-A359-48CC-A020-A57250937B56}|ChallengeHackathon.Domain\\ChallengeHackathon.Domain.csproj|solutionrelative:challengehackathon.domain\\interfaces\\services\\ifinancadomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01A2CFD4-A359-48CC-A020-A57250937B56}|ChallengeHackathon.Domain\\ChallengeHackathon.Domain.csproj|c:\\users\\coti  307 - 11\\documents\\challenge\\challengehackathon\\challengehackathon.domain\\interfaces\\repositories\\ifinancarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01A2CFD4-A359-48CC-A020-A57250937B56}|ChallengeHackathon.Domain\\ChallengeHackathon.Domain.csproj|solutionrelative:challengehackathon.domain\\interfaces\\repositories\\ifinancarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\challengeHackathon\\ChallengeHackathon.Infra.Data\\Repositories\\FinancaRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChallengeHackathon.Infra.Data\\Repositories\\FinancaRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Coti  307 - 11\\AppData\\Local\\Temp\\qr1bwdgm..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F918819-6E09-4DAC-AC87-DAFDF3ABD671}|ChallengeHackathon.Infra.Data\\ChallengeHackathon.Infra.Data.csproj|c:\\users\\coti  307 - 11\\documents\\challenge\\challengehackathon\\challengehackathon.infra.data\\challengehackathon.infra.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8F918819-6E09-4DAC-AC87-DAFDF3ABD671}|ChallengeHackathon.Infra.Data\\ChallengeHackathon.Infra.Data.csproj|solutionrelative:challengehackathon.infra.data\\challengehackathon.infra.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\challengeHackathon\\ChallengeHackathon.Domain\\Interfaces\\Repositories\\IFinancaRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChallengeHackathon.Domain\\Interfaces\\Repositories\\IFinancaRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5CFB34C-855D-477B-9279-DDD73CCE387C}|ChallengeHackathon\\ChallengeHackathon.csproj|c:\\users\\coti  307 - 11\\documents\\challenge\\challengehackathon\\challengehackathon\\challengehackathon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D5CFB34C-855D-477B-9279-DDD73CCE387C}|ChallengeHackathon\\ChallengeHackathon.csproj|solutionrelative:challengehackathon\\challengehackathon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\challengeHackathon\\ChallengeHackathon.Domain\\Service\\FinancaDomainService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChallengeHackathon.Domain\\Service\\FinancaDomainService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Coti  307 - 11\\AppData\\Local\\Temp\\qr1bwdgm..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\challengeHackathon\\ChallengeHackathon\\Controllers\\FinancaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChallengeHackathon\\Controllers\\FinancaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Coti  307 - 11\\AppData\\Local\\Temp\\qr1bwdgm..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\challengeHackathon\\ChallengeHackathon\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChallengeHackathon\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\challengeHackathon\\ChallengeHackathon\\Configs\\CORSConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChallengeHackathon\\Configs\\CORSConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\challengeHackathon\\ChallengeHackathon.Domain\\Interfaces\\Services\\IFinancaDomainService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChallengeHackathon.Domain\\Interfaces\\Services\\IFinancaDomainService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\challengeHackathon\\ChallengeHackathon.Infra.Data\\ChallengeHackathon.Infra.Data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChallengeHackathon.Infra.Data\\ChallengeHackathon.Infra.Data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\challengeHackathon\\ChallengeHackathon\\ChallengeHackathon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChallengeHackathon\\ChallengeHackathon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -63,37 +57,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "IFinancaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Coti  307 - 11\\Documents\\challenge\\ChallengeHackathon\\ChallengeHackathon.Domain\\Interfaces\\Repositories\\IFinancaRepository.cs",
+              "DocumentMoniker": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\challengeHackathon\\ChallengeHackathon.Domain\\Interfaces\\Repositories\\IFinancaRepository.cs",
               "RelativeDocumentMoniker": "ChallengeHackathon.Domain\\Interfaces\\Repositories\\IFinancaRepository.cs",
-              "ToolTip": "C:\\Users\\Coti  307 - 11\\Documents\\challenge\\ChallengeHackathon\\ChallengeHackathon.Domain\\Interfaces\\Repositories\\IFinancaRepository.cs",
+              "ToolTip": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\challengeHackathon\\ChallengeHackathon.Domain\\Interfaces\\Repositories\\IFinancaRepository.cs",
               "RelativeToolTip": "ChallengeHackathon.Domain\\Interfaces\\Repositories\\IFinancaRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T16:56:54.309Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-25T16:56:54.309Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "FinancaDomainService.cs",
-              "DocumentMoniker": "C:\\Users\\Coti  307 - 11\\Documents\\challenge\\ChallengeHackathon\\ChallengeHackathon.Domain\\Service\\FinancaDomainService.cs",
+              "DocumentMoniker": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\challengeHackathon\\ChallengeHackathon.Domain\\Service\\FinancaDomainService.cs",
               "RelativeDocumentMoniker": "ChallengeHackathon.Domain\\Service\\FinancaDomainService.cs",
-              "ToolTip": "C:\\Users\\Coti  307 - 11\\Documents\\challenge\\ChallengeHackathon\\ChallengeHackathon.Domain\\Service\\FinancaDomainService.cs",
+              "ToolTip": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\challengeHackathon\\ChallengeHackathon.Domain\\Service\\FinancaDomainService.cs",
               "RelativeToolTip": "ChallengeHackathon.Domain\\Service\\FinancaDomainService.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAAAAoAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T16:51:19.723Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-25T16:51:19.723Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FinancaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Coti  307 - 11\\Documents\\challenge\\ChallengeHackathon\\ChallengeHackathon.Infra.Data\\Repositories\\FinancaRepository.cs",
+              "DocumentMoniker": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\challengeHackathon\\ChallengeHackathon.Infra.Data\\Repositories\\FinancaRepository.cs",
               "RelativeDocumentMoniker": "ChallengeHackathon.Infra.Data\\Repositories\\FinancaRepository.cs",
-              "ToolTip": "C:\\Users\\Coti  307 - 11\\Documents\\challenge\\ChallengeHackathon\\ChallengeHackathon.Infra.Data\\Repositories\\FinancaRepository.cs",
+              "ToolTip": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\challengeHackathon\\ChallengeHackathon.Infra.Data\\Repositories\\FinancaRepository.cs",
               "RelativeToolTip": "ChallengeHackathon.Infra.Data\\Repositories\\FinancaRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -102,92 +94,84 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "FinancaController.cs",
-              "DocumentMoniker": "C:\\Users\\Coti  307 - 11\\Documents\\challenge\\ChallengeHackathon\\ChallengeHackathon\\Controllers\\FinancaController.cs",
+              "DocumentMoniker": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\challengeHackathon\\ChallengeHackathon\\Controllers\\FinancaController.cs",
               "RelativeDocumentMoniker": "ChallengeHackathon\\Controllers\\FinancaController.cs",
-              "ToolTip": "C:\\Users\\Coti  307 - 11\\Documents\\challenge\\ChallengeHackathon\\ChallengeHackathon\\Controllers\\FinancaController.cs",
+              "ToolTip": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\challengeHackathon\\ChallengeHackathon\\Controllers\\FinancaController.cs",
               "RelativeToolTip": "ChallengeHackathon\\Controllers\\FinancaController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T16:46:38.171Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Coti  307 - 11\\Documents\\challenge\\ChallengeHackathon\\ChallengeHackathon\\Program.cs",
-              "RelativeDocumentMoniker": "ChallengeHackathon\\Program.cs",
-              "ToolTip": "C:\\Users\\Coti  307 - 11\\Documents\\challenge\\ChallengeHackathon\\ChallengeHackathon\\Program.cs",
-              "RelativeToolTip": "ChallengeHackathon\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T16:39:33.57Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CORSConfig.cs",
-              "DocumentMoniker": "C:\\Users\\Coti  307 - 11\\Documents\\challenge\\ChallengeHackathon\\ChallengeHackathon\\Configs\\CORSConfig.cs",
-              "RelativeDocumentMoniker": "ChallengeHackathon\\Configs\\CORSConfig.cs",
-              "ToolTip": "C:\\Users\\Coti  307 - 11\\Documents\\challenge\\ChallengeHackathon\\ChallengeHackathon\\Configs\\CORSConfig.cs",
-              "RelativeToolTip": "ChallengeHackathon\\Configs\\CORSConfig.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAoAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T16:36:58.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-25T16:46:38.171Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "IFinancaDomainService.cs",
-              "DocumentMoniker": "C:\\Users\\Coti  307 - 11\\Documents\\challenge\\ChallengeHackathon\\ChallengeHackathon.Domain\\Interfaces\\Services\\IFinancaDomainService.cs",
-              "RelativeDocumentMoniker": "ChallengeHackathon.Domain\\Interfaces\\Services\\IFinancaDomainService.cs",
-              "ToolTip": "C:\\Users\\Coti  307 - 11\\Documents\\challenge\\ChallengeHackathon\\ChallengeHackathon.Domain\\Interfaces\\Services\\IFinancaDomainService.cs",
-              "RelativeToolTip": "ChallengeHackathon.Domain\\Interfaces\\Services\\IFinancaDomainService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\challengeHackathon\\ChallengeHackathon\\Program.cs",
+              "RelativeDocumentMoniker": "ChallengeHackathon\\Program.cs",
+              "ToolTip": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\challengeHackathon\\ChallengeHackathon\\Program.cs",
+              "RelativeToolTip": "ChallengeHackathon\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T17:30:37.189Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-25T16:39:33.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CORSConfig.cs",
+              "DocumentMoniker": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\challengeHackathon\\ChallengeHackathon\\Configs\\CORSConfig.cs",
+              "RelativeDocumentMoniker": "ChallengeHackathon\\Configs\\CORSConfig.cs",
+              "ToolTip": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\challengeHackathon\\ChallengeHackathon\\Configs\\CORSConfig.cs",
+              "RelativeToolTip": "ChallengeHackathon\\Configs\\CORSConfig.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T16:36:58.458Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "IFinancaDomainService.cs",
+              "DocumentMoniker": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\challengeHackathon\\ChallengeHackathon.Domain\\Interfaces\\Services\\IFinancaDomainService.cs",
+              "RelativeDocumentMoniker": "ChallengeHackathon.Domain\\Interfaces\\Services\\IFinancaDomainService.cs",
+              "ToolTip": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\challengeHackathon\\ChallengeHackathon.Domain\\Interfaces\\Services\\IFinancaDomainService.cs",
+              "RelativeToolTip": "ChallengeHackathon.Domain\\Interfaces\\Services\\IFinancaDomainService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T17:30:37.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "SQLQuery2.sql ",
               "DocumentMoniker": "C:\\Users\\Coti  307 - 11\\AppData\\Local\\Temp\\qr1bwdgm..sql",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\qr1bwdgm..sql",
               "ToolTip": "SQLQuery2.sql *",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-05-25T15:24:10.317Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-25T15:24:10.317Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "ChallengeHackathon.Infra.Data",
-              "DocumentMoniker": "C:\\Users\\Coti  307 - 11\\Documents\\challenge\\ChallengeHackathon\\ChallengeHackathon.Infra.Data\\ChallengeHackathon.Infra.Data.csproj",
+              "Title": "ChallengeHackathon.Infra.Data.csproj",
+              "DocumentMoniker": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\challengeHackathon\\ChallengeHackathon.Infra.Data\\ChallengeHackathon.Infra.Data.csproj",
               "RelativeDocumentMoniker": "ChallengeHackathon.Infra.Data\\ChallengeHackathon.Infra.Data.csproj",
-              "ToolTip": "C:\\Users\\Coti  307 - 11\\Documents\\challenge\\ChallengeHackathon\\ChallengeHackathon.Infra.Data\\ChallengeHackathon.Infra.Data.csproj",
+              "ToolTip": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\challengeHackathon\\ChallengeHackathon.Infra.Data\\ChallengeHackathon.Infra.Data.csproj",
               "RelativeToolTip": "ChallengeHackathon.Infra.Data\\ChallengeHackathon.Infra.Data.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-25T14:43:57.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-25T14:43:57.975Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "ChallengeHackathon",
-              "DocumentMoniker": "C:\\Users\\Coti  307 - 11\\Documents\\challenge\\ChallengeHackathon\\ChallengeHackathon\\ChallengeHackathon.csproj",
+              "Title": "ChallengeHackathon.csproj",
+              "DocumentMoniker": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\challengeHackathon\\ChallengeHackathon\\ChallengeHackathon.csproj",
               "RelativeDocumentMoniker": "ChallengeHackathon\\ChallengeHackathon.csproj",
-              "ToolTip": "C:\\Users\\Coti  307 - 11\\Documents\\challenge\\ChallengeHackathon\\ChallengeHackathon\\ChallengeHackathon.csproj",
+              "ToolTip": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\challengeHackathon\\ChallengeHackathon\\ChallengeHackathon.csproj",
               "RelativeToolTip": "ChallengeHackathon\\ChallengeHackathon.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-25T13:57:10.568Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-25T13:57:10.568Z"
             }
           ]
         }

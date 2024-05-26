@@ -8,7 +8,7 @@
         {
             services.AddCors(cfg => cfg.AddPolicy(PolicyName, builder =>
             {
-                builder.WithOrigins("http://localhost:5062/")
+                builder.AllowAnyOrigin()
                     .AllowAnyHeader()
                     .AllowAnyMethod();
             }));

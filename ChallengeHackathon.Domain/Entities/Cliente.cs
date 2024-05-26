@@ -10,7 +10,5 @@ namespace ChallengeHackathon.Domain.Entities
     {
         public DateTime? DataCadastro { get; set; }
         public int? FormaPagamento { get; set; }
-        
-        
     }
 }
